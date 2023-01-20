@@ -1,0 +1,10 @@
+Git commands for repositories and future projects.
+
+git --version
+git help config
+-------------------------
+For creating repository
+
+mkdir test
+cd test
+git init
